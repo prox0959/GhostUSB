@@ -1,0 +1,205 @@
+[
+    {
+        "type": "USB Device",
+        "name": "USB Composite Device",
+        "hardware_id": "VID_054C&PID_09CC",
+        "instance_id": "6&20027461&0&2",
+        "last_seen": "2026-09-22 17:25:32"
+    },
+    {
+        "type": "USB Device",
+        "name": "Wireless Controller",
+        "hardware_id": "VID_054C&PID_09CC&MI_00",
+        "instance_id": "7&11085b43&0&0000",
+        "last_seen": "2026-09-22 17:25:32"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_054C&PID_09CC&MI_03",
+        "instance_id": "7&11085b43&0&0003",
+        "last_seen": "2026-09-22 17:25:32"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Composite Device",
+        "hardware_id": "VID_04D9&PID_FC4D",
+        "instance_id": "5&16d56630&0&3",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_04D9&PID_FC4D&MI_00",
+        "instance_id": "6&293b786f&0&0000",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_04D9&PID_FC4D&MI_01",
+        "instance_id": "6&293b786f&0&0001",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_04D9&PID_FC4D&MI_02",
+        "instance_id": "6&293b786f&0&0002",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "Generic USB Hub",
+        "hardware_id": "VID_05E3&PID_0608",
+        "instance_id": "5&16d56630&0&2",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Composite Device",
+        "hardware_id": "VID_0B05&PID_1B30",
+        "instance_id": "5&16d56630&0&1",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_00",
+        "instance_id": "6&db1f11b&0&0000",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_01",
+        "instance_id": "6&db1f11b&0&0001",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_02",
+        "instance_id": "6&db1f11b&0&0002",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_03",
+        "instance_id": "6&db1f11b&0&0003",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_04",
+        "instance_id": "6&db1f11b&0&0004",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "Intel(R) Wireless Bluetooth(R)",
+        "hardware_id": "VID_8087&PID_0026",
+        "instance_id": "5&16d56630&0&10",
+        "last_seen": "2026-09-21 18:26:28"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Composite Device",
+        "hardware_id": "VID_2B7E&PID_B680",
+        "instance_id": "0x0001",
+        "last_seen": "2026-09-21 18:26:25"
+    },
+    {
+        "type": "USB Device",
+        "name": "HD Webcam",
+        "hardware_id": "VID_2B7E&PID_B680&MI_00",
+        "instance_id": "6&313d996d&0&0000",
+        "last_seen": "2026-09-21 18:26:25"
+    },
+    {
+        "type": "USB Device",
+        "name": "Unknown USB Device (Device Descriptor Request Failed)",
+        "hardware_id": "VID_0000&PID_0002",
+        "instance_id": "6&20027461&0&3",
+        "last_seen": "2026-09-10 04:13:32"
+    },
+    {
+        "type": "USB Device",
+        "name": "Unknown USB Device (Device Descriptor Request Failed)",
+        "hardware_id": "VID_0000&PID_0002",
+        "instance_id": "6&20027461&0&4",
+        "last_seen": "2026-09-10 04:13:32"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Composite Device",
+        "hardware_id": "VID_04D9&PID_FC4D",
+        "instance_id": "6&20027461&0&3",
+        "last_seen": "2026-09-10 04:12:16"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_04D9&PID_FC4D&MI_00",
+        "instance_id": "7&1082248a&0&0000",
+        "last_seen": "2026-09-10 04:12:16"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_04D9&PID_FC4D&MI_01",
+        "instance_id": "7&1082248a&0&0001",
+        "last_seen": "2026-09-10 04:12:16"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_04D9&PID_FC4D&MI_02",
+        "instance_id": "7&1082248a&0&0002",
+        "last_seen": "2026-09-10 04:12:16"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Composite Device",
+        "hardware_id": "VID_0B05&PID_1B30",
+        "instance_id": "6&20027461&0&4",
+        "last_seen": "2026-09-10 04:12:16"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_00",
+        "instance_id": "7&92dcbef&0&0000",
+        "last_seen": "2026-09-10 04:12:16"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_01",
+        "instance_id": "7&92dcbef&0&0001",
+        "last_seen": "2026-09-10 04:12:16"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_02",
+        "instance_id": "7&92dcbef&0&0002",
+        "last_seen": "2026-09-10 04:12:16"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_03",
+        "instance_id": "7&92dcbef&0&0003",
+        "last_seen": "2026-09-10 04:12:16"
+    },
+    {
+        "type": "USB Device",
+        "name": "USB Input Device",
+        "hardware_id": "VID_0B05&PID_1B30&MI_04",
+        "instance_id": "7&92dcbef&0&0004",
+        "last_seen": "2026-09-10 04:12:16"
+    }
+]
